@@ -5,7 +5,6 @@ This project implements a classic Tic Tac Toe game with an unbeatable AI using t
 ## Features
 - Play against a perfect AI opponent
 - Implements the Minimax algorithm for optimal play
-- Interactive GUI using Pygame
 
 ## How to Run
 
